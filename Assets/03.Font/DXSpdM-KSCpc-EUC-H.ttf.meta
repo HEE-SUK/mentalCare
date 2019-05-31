@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fdfdefcad992b694490d05806a0412ff
+timeCreated: 1527255778
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DX??? M
+  fontNames:
+  - DX??? M
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
